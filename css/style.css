@@ -1,0 +1,80 @@
+
+body {
+    background-color: rgb(187 187 187);
+    margin: 0;
+    font-family: "Lato", sans-serif;
+}
+
+
+.box{
+    width: 1000px;
+    background-color: rgb(247 224 224);
+    margin: auto;
+    padding: 60px 40px;
+    border-radius: 20px;
+    text-align: justify;
+    box-sizing: border-box;
+}
+
+
+h2{
+    font-family: "Handlee", cursive;
+    font-size: 31px;
+    font-weight: 900;
+    text-align: center;
+}
+
+
+p{
+    
+font-size: 18px;
+}
+
+
+.navalign{
+    text-align: center;
+}
+
+.nav {
+    font-size: 24px;
+    border: solid 2px;
+    padding: 11px;
+    text-decoration: none;
+    border-radius: 10px;
+}
+
+.nav:hover{
+
+    background-color: rgb(136, 127, 127);
+}
+
+img{
+    width: 400px;
+    height: 400px;
+    object-fit: cover;
+
+}
+
+.social{
+    list-style: none;
+    padding: 0;
+    margin: 80px 0;
+    
+}
+
+
+
+
+.social li a{
+    color: blue;
+    font-size: 30px;
+    text-decoration: none;
+    border: solid 2px;
+    border-radius: 10px;
+    padding: 10px;
+
+}
+
+.social li a:hover{
+    background-color: rgb(136, 127, 127);
+}
